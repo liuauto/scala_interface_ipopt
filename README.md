@@ -8,7 +8,7 @@ export CLASSPATH=<JavaInterfacePath>:$CLASSPATH
 
 The static library libjipopt.so needs to be put under /lib folder to run the scala program. 
 
-To build/run, follow the usual *scalac* and *scala* procedure. 
+To build/run, follow the usual **scalac** and **scala** procedure. 
 
 The code implements the HS071 example in the IPOPT JavaInterface examples. The HS071 problem definition can be found in Hock-Schittkowsky test suite
 http://www.ai7.uni-bayreuth.de/test_problem_coll.pdf
